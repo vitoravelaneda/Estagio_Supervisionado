@@ -1,8 +1,11 @@
 # | Turma B - 9º Ano - EMEF PROF WANDA ROCHA MARTINS | Disciplina Ciências da Natureza - Prof. Vitor Avelaneda
  Olá pessoal, neste repositório estão disponiveis os materiais utilizados em aula, e as atividade relacionada a disciplina.
  * Contato: avelaneda.vitor@gmail.com
+ 
  ### Atividades:
 * [Atividade aula - 09/10/2023 - Movimento. ](https://github.com/vitoravelaneda/Estagio_Supervisionado/blob/main/Atividades/aula_09-10-2023_atividade_Movimento.pdf)
+* [Atividade aula - 30/10/2023 - Exercícios Movimento. ](https://github.com/vitoravelaneda/Estagio_Supervisionado/blob/main/Atividades/aula_30-10-2023_atividade_exercicios_prova_do_IFRS.pdf)
+
 ### Vídeos assistidos em aula:
 * [A Teoria do Movimento | Canal - Ciência Todo Dia. ](https://www.youtube.com/watch?v=X6mQcBdFkXQ&list=PLPz6TqSYQzDYuQ3WqF5plmN0rycwcYULm&index=2)
 * [A Primeira Lei de Newton (Lei da Inércia) Explicada | Canal - Ciência Todo Dia. ](https://www.youtube.com/watch?v=RoyecFxgwTs&list=PLPz6TqSYQzDYuQ3WqF5plmN0rycwcYULm&index=4)
