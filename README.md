@@ -3,7 +3,7 @@
  * Contato: avelaneda.vitor@gmail.com
 
  ### Atividades:
-* [Atividade aula - 16/10/2023 - Movimento. ](https://github.com/vitoravelaneda/Estagio_Supervisionado/blob/main/Atividades/aula_09-10-2023_atividade_Movimento.pdf)
+* [Atividade aula - 16/10/2023 - Questionário Movimento. ](https://github.com/vitoravelaneda/Estagio_Supervisionado/blob/main/Atividades/aula_09-10-2023_atividade_Movimento.pdf)
 * [Atividade aula - 30/10/2023 e 01/11/2023 - Exercícios Movimento. ](https://github.com/vitoravelaneda/Estagio_Supervisionado/blob/main/Atividades/aula_30-10-2023_atividade_exercicios_prova_do_IFRS.pdf)
 
 ### Slides utilizados em aulas:
