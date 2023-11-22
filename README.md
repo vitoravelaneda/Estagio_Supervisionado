@@ -8,7 +8,8 @@
 * [Atividade aula - 17/11/2023 - Questionário Sistema Solar. ](https://github.com/vitoravelaneda/Estagio_Supervisionado/blob/main/Atividades/aula_17-11-2023_atividade_sistema_solar.pdf)
 
 ### Slides utilizados em aulas:
-* [Aulas - 06/11/2023 e 13/11/2023 | Sistema Solar](https://www.canva.com/design/DAFzXXDNr6E/jKFxikEcGOqcXB4sGQ5FaQ/edit?utm_content=DAFzXXDNr6E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* [Aulas - 06/11/2023 e 13/11/2023 | Sistema Solar (CANVA)](https://www.canva.com/design/DAFzXXDNr6E/jKFxikEcGOqcXB4sGQ5FaQ/edit?utm_content=DAFzXXDNr6E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* [Aulas - 06/11/2023 e 13/11/2023 | Sistema Solar (PDF)](https://github.com/vitoravelaneda/Estagio_Supervisionado/blob/main/Aulas/Aula_SISTEMA_SOLAR.pdf)
 
 ### Vídeos assistidos em aula:
 * [A Teoria do Movimento | Canal - Ciência Todo Dia. ](https://www.youtube.com/watch?v=X6mQcBdFkXQ&list=PLPz6TqSYQzDYuQ3WqF5plmN0rycwcYULm&index=2)
