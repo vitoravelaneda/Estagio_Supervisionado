@@ -6,7 +6,7 @@
 * [Atividade aula - 16/10/2023 - Questionário Movimento. ](https://github.com/vitoravelaneda/Estagio_Supervisionado/blob/main/Atividades/aula_09-10-2023_atividade_Movimento.pdf)
 * [Atividade aula - 30/10/2023 e 01/11/2023 - Exercícios Movimento. ](https://github.com/vitoravelaneda/Estagio_Supervisionado/blob/main/Atividades/aula_30-10-2023_atividade_exercicios_prova_do_IFRS.pdf)
 * [Atividade aula - 17/11/2023 - Questionário Sistema Solar. ](https://github.com/vitoravelaneda/Estagio_Supervisionado/blob/main/Atividades/aula_17-11-2023_atividade_sistema_solar.pdf)
-* [Atividade aula - 24/11/2023 - Simulado da Prova. ](https://github.com/vitoravelaneda/Estagio_Supervisionado/blob/main/Atividades/Simulado_Prova_24_11_2023.pdf) [Gabarito!!!](https://github.com/vitoravelaneda/Estagio_Supervisionado/blob/main/Atividades/Gabarito_Simulado_Prova_24_11_2023.pdf)
+* [Atividade aula - 24/11/2023 - Prova Final](https://github.com/vitoravelaneda/Estagio_Supervisionado/blob/main/Atividades/Prova_24_11_2023.pdf). [Gabarito!!!](https://github.com/vitoravelaneda/Estagio_Supervisionado/blob/main/Atividades/Gabarito_Prova_24_11_2023.pdf)
 
 
 ### Slides utilizados em aulas:
